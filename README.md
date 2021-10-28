@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>inst, okeeeey?</title>
+
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -17,4 +17,4 @@
      </div>  
    </div> </div>
 </body>
-</html>
+
